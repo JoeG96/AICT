@@ -10,3 +10,5 @@ Link to Google Drive containing the following project files:
   - Python script for generating t-SNE data maps
 
 https://drive.google.com/drive/folders/1jy4BhgZS6goAi45ejo_AJTGjp31cGVW2?usp=sharing
+
+Playlist containing all weekly videos: https://www.youtube.com/playlist?list=PLmIPtkQwzyzxKVGZjHYiCF46SDPpUnSPo
