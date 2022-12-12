@@ -1,4 +1,5 @@
 # AICT
+Joe Gollin 20045245
 Repo for AI for Creative Technologies project files
 
 Link to Google Drive containing the following project files:
